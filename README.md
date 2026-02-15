@@ -4,3 +4,5 @@
 [![Maintainability](https://qlty.sh/gh/CodeNovaGZ/projects/fullstack-javascript-project-98/maintainability.svg)](https://qlty.sh/gh/CodeNovaGZ/projects/fullstack-javascript-project-98)
 
 [![asciicast](https://asciinema.org/a/sTH7PmPZpuqqIVDi.svg)](https://asciinema.org/a/sTH7PmPZpuqqIVDi)
+
+[![asciicast](https://asciinema.org/a/hQmrLJyqIHrQPm3X.svg)](https://asciinema.org/a/hQmrLJyqIHrQPm3X)
