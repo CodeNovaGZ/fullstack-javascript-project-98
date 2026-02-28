@@ -14,7 +14,7 @@ export default function runGame(description, getRoundData){
 
         if(answer !== correctAnswer){
             console.log(`${answer} es una respuesta incorrecta ;(. La respuesta correcta era "${correctAnswer}".`);
-            console.log(`Intentemoslo de nuevo, ${name}!`);
+            console.log(`¡Intentémoslo de nuevo, ${name}!`);
             return;
         }
         console.log("¡Correcto!");
