@@ -15,7 +15,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
   },
   "bin": {
     "brain-games": "bin/brain-games.js",
@@ -29,8 +30,10 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "eslint": "^8.56.0",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.2",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.29.1"
+    "eslint-plugin-import": "^2.29.1",
+    "globals": "^17.3.0"
   }
 }
