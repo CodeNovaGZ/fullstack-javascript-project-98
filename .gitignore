@@ -1,1 +1,44 @@
-node_modules
+node_modules/
+
+# Dependency directories
+/.pnp/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Coverage and build output
+coverage/
+.nyc_output/
+dist/
+build/
+
+# Editor directories and system files
+.vscode/
+.idea/
+.DS_Store
+
+# Caches and temp
+.cache/
+.tmp/
+*.tmp
+
+# Tools
+.eslintcache
+.parcel-cache/
+.pnp.*
+*.tgz
+
+# Asciinema recordings
+*.cast
+asciinema/
+
+# Other
+coverage.svg
