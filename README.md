@@ -37,3 +37,5 @@ node bin/brain-even.js
 ```
 
 Los badges de asciinema anteriores muestran grabaciones de ejecución para los juegos incluidos.
+
+[![Maintainability](https://qlty.sh/gh/CodeNovaGZ/projects/fullstack-javascript-project-98/maintainability.svg)](https://qlty.sh/gh/CodeNovaGZ/projects/fullstack-javascript-project-98)
